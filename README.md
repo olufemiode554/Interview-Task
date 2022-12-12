@@ -26,3 +26,6 @@ I created another column (Day_diff) ==G2-F2
 I created another column (Day_time_diff) =H2&":"&E2
 
 After all this steps, I was able to import the data to SSMS
+
+
+[Link to Dashboard](https://1drv.ms/p/s!Au_vlCOcdFpRiXz4ThZ1BOzMIXBy?e=RrBecz)
